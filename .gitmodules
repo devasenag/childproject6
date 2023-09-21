@@ -1,0 +1,4 @@
+[submodule "Externals"]
+	path = Externals
+	url = https://github.com/devasenag/childproject6.git
+	branch = lib-common1
